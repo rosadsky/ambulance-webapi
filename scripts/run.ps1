@@ -31,6 +31,9 @@ switch ($command) {
     "mongo" {
         mongo up
     }
+    "test" {
+        go test -v ./...
+    }
     default {
         throw "Unknown command: $command"
     }

@@ -6,15 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b98d6a46-4639-4da5-8663-d230e0a3cbf1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.openapi-generator/FILES" beforeDir="false" afterPath="$PROJECT_DIR$/.openapi-generator/FILES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/ambulance-wl.openapi.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/api/ambulance-wl.openapi.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/ambulance-api-service/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/ambulance-api-service/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/ambulance_wl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/internal/ambulance_wl/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/ambulance_wl/impl_ambulance_conditions.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/ambulance_wl/impl_ambulance_conditions.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/ambulance_wl/impl_ambulance_waiting_list.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/ambulance_wl/impl_ambulance_waiting_list.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/ambulance_wl/routers.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/ambulance_wl/routers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/db_service/mongo_svc.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/db_service/mongo_svc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/run.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/run.ps1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
