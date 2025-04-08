@@ -5,14 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b98d6a46-4639-4da5-8663-d230e0a3cbf1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ambulance-webapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ambulance-webapi.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.openapi-generator/FILES" beforeDir="false" afterPath="$PROJECT_DIR$/.openapi-generator/FILES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ambulance-wl.openapi.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/api/ambulance-wl.openapi.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/ambulance-api-service/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/ambulance-api-service/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/ambulance_wl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/internal/ambulance_wl/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/ambulance_wl/api_ambulance_conditions.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/ambulance_wl/api_ambulance_waiting_list.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/ambulance_wl/routers.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/ambulance_wl/routers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/run.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/run.ps1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
@@ -32,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
     "Go Build.go build main.go.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -47,6 +61,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "go.vgo",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,7 +104,17 @@
     <option name="version" value="3" />
   </component>
   <component name="VgoProject">
-    <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/ambulance-api-service/main.go</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
